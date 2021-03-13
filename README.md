@@ -1,6 +1,6 @@
 # Programmation distribuée : site de réservation en ligne
 ## Démarrage du serveur :
-Le serveur se lance en exécutant la commande `python main.py` depuis le dossier tp_architecture/SI2-LesPatatesDouces/projet/code ou en lançant le fichier **main.py** depuis un IDE (PyCharm par exemple).
+Le serveur se lance en exécutant la commande `python main.py` ou en lançant le fichier **main.py** depuis un IDE (PyCharm par exemple).
 
 # Page d'accueil
 Pour accéder à l'application, il suffit d'ouvrir le fichier **index.html** avec un navigateur.
